@@ -82,11 +82,11 @@ Hello! I’m <b>Chandan Kumar</b>, a passionate Data Science enthusiast with a s
   <tr style="border:none">
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=its-Chandan-Kumar&show_icons=true&theme=tokyonight"
-           height="2500" width='1500' />
+           height="2500" width='600' />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Chandan-Kumar&theme=tokyonight"
-           height="1000" width="700" />
+           height="1000" width="400" />
     </td>
   </tr>
 </table>
