@@ -77,12 +77,6 @@ Hello! I’m <b>Chandan Kumar</b>, a passionate Data Science enthusiast with a s
 
 <hr style="height:1px; background-color:#e5e7eb; border:none;"/>
 
-<h2 style="color:#0f172a;">📈 GitHub Activity</h2>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=its-Chandan-Kumar&show_icons=true&theme=tokyonight"
-           height="400" width='800' />
-</div>
-
 <hr style="height:1px; background-color:#e5e7eb; border:none;"/>
 
 <h2 style="color:#0f172a;">📫 Connect With Me</h2>
