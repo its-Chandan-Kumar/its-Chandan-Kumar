@@ -77,7 +77,6 @@ Hello! I’m <b>Chandan Kumar</b>, a passionate Data Science enthusiast with a s
 
 <hr style="height:1px; background-color:#e5e7eb; border:none;"/>
 
-<hr style="height:1px; background-color:#e5e7eb; border:none;"/>
 
 <h2 style="color:#0f172a;">📫 Connect With Me</h2>
 
