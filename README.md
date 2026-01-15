@@ -82,7 +82,7 @@ Hello! I’m <b>Chandan Kumar</b>, a passionate Data Science enthusiast with a s
 
 <p style="font-size:15px; line-height:1.8;">
 📧 <b>Email:</b> chandankumar347289@gmail.com<br/>
-💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/chandankumar777">linkedin.com/in/chandankumar777</a><br/>
+💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/chandankumar777">linkedin.com/in/its-chandan-kumar</a><br/>
 🌐 <b>Portfolio:</b> <a href="https://chandan-kumar-portfolio.onrender.com/">https://chandan-kumar-portfolio.onrender.com</a>
 </p>
 <br>
